@@ -1,0 +1,1 @@
+web: gunicorn cvSansar.wsgi --log-file -
